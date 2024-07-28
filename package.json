@@ -1,0 +1,29 @@
+{
+  "name": "bookhive",
+  "version": "1.0.0",
+  "description": "Website for a bookstore that offers a cafe and a lounge with events for the community",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xitlaly-P/BookHive.git"
+  },
+  "keywords": [
+    "student",
+    "project",
+    "next",
+    "bookstore",
+    "books",
+    "cafe",
+    "lounge",
+    "website"
+  ],
+  "author": "Xitlaly Prado and Sarah Dob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xitlaly-P/BookHive/issues"
+  },
+  "homepage": "https://github.com/Xitlaly-P/BookHive#readme"
+}
