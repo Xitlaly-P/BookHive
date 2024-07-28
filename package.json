@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/Xitlaly-P/BookHive/issues"
   },
-  "homepage": "https://github.com/Xitlaly-P/BookHive#readme"
+  "homepage": "https://github.com/Xitlaly-P/BookHive#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^20.14.12"
+  }
 }
