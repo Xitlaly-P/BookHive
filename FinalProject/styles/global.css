@@ -59,3 +59,42 @@ p {
   line-height: 25px;
   text-align: left;
 }
+
+.section_title_container {
+  display: flex;
+  margin: 0 auto;
+  padding-bottom: 56px;
+  display: flex;
+  flex-direction: column;
+  max-width: min-content;
+}
+.section_title_underline {
+  width: 70%;
+  margin: 0 auto;
+  height: 8px;
+  margin-top: 10px;
+  background-color: var(--primary-color);
+}
+section_title {
+  text-align: center;
+}
+.about {
+  background: var(--background-color);
+  padding: 60px 0;
+}
+.about_container {
+  display: flex;
+  max-width: 1220px;
+  margin: 0 auto;
+
+  .content {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 105px;
+    p {
+      max-width: 550px;
+      margin-top: 20px;
+    }
+  }
+}
