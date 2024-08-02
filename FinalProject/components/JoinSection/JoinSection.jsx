@@ -40,9 +40,9 @@ const JoinSection = () => {
                 <path
                   d="M10 24H38M38 24L24 10M38 24L24 38"
                   stroke="#1E1E1E"
-                  stroke-width="4"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="4"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 />
               </svg>
             </div>
