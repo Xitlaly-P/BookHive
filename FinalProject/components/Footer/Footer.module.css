@@ -1,0 +1,22 @@
+.footer {
+  background-color: #ffc107;
+  padding: 1.5rem 0;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.title {
+  font-size: 28px;
+  color: var(--text-color);
+}
+
+.copyright {
+  font-size: 18px;
+  color: var(--text-color);
+}
