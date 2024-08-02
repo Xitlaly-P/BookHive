@@ -98,3 +98,42 @@ section_title {
     }
   }
 }
+
+.testimonials {
+  padding: 69px 0;
+  background: var(--secondary-color);
+  h1 {
+    color: white;
+  }
+
+  .bee_image {
+    display: flex;
+    justify-content: center;
+    margin-top: 36px;
+  }
+  .cards {
+    display: flex;
+    gap: 24px;
+    margin: 0 auto;
+    margin-top: 100px;
+    max-width: 1200px;
+
+    .card {
+      background: var(--background-color);
+      padding: 75px 32px 32px 32px;
+      max-width: 360px;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      border-radius: 40px;
+      img {
+        position: absolute;
+        height: 135px;
+        top: -20%;
+      }
+      p {
+        text-align: center;
+      }
+    }
+  }
+}
