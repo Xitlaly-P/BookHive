@@ -137,3 +137,75 @@ section_title {
     }
   }
 }
+
+
+.join_section {
+  background: var(--text-color);
+  color: white;
+  padding: 60px 0;
+  .email-input-container {
+    display: flex;
+    max-width: 450px;
+    height: 68px;
+    background-color: #f5f5dc;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .email-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    padding-left: 10px;
+    font-size: 18px;
+    color: #5c4033;
+  }
+
+  .email-input {
+    flex-grow: 1;
+    border: none;
+    background-color: transparent;
+    padding: 0 10px;
+    font-size: 24px;
+    color: #5c4033;
+  }
+
+  .email-input::placeholder {
+    color: #8b7355;
+  }
+
+  .submit-button {
+    width: 72px;
+    background-color: #f28123;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: none !important;
+    transition: background-color 0.3s ease;
+    display: grid;
+    place-items: center;
+  }
+
+  .submit-button:hover {
+    background-color: #e67300;
+  }
+
+  .join_container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    .content {
+      max-width: 554px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      color: var(--background-color);
+      h2 {
+        color: var(--secondary-color);
+      }
+    }
+  }
+}
