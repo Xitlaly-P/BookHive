@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.bg {
+  background-color: var(--primary-color);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: bold;
+  font-size: 28px;
+  color: var(--text-color);
+}
+
+.navList {
+  display: flex;
+  list-style-type: none;
+  gap: 4rem;
+}
+
+.navLink {
+  text-decoration: none;
+  color: var(--text-color);
+  font-weight: 500;
+  font-size: 28px;
+}
+
+.navLink:hover {
+  color: var(--secondary-color);
+}
