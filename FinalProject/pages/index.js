@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Header from "../components/Header/Header";
 export default function Home() {
   return (
     <div>
@@ -6,6 +7,8 @@ export default function Home() {
         <title>The Book Hive</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Header/>
+
     </div>
   );
 }
