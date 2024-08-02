@@ -1,0 +1,42 @@
+.bg {
+  background-color: var(--primary-color);
+  padding: 15rem 0;
+}
+.inside_bg {
+  background-color: var(--background-color);
+}
+.heroSection {
+  display: flex;
+  align-items: center;
+  height: 315px;
+  justify-content: space-between;
+  width: 1000%;
+}
+
+.content {
+  flex: 1;
+  max-width: 450px;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.description {
+  margin-bottom: 2rem;
+}
+
+.cta {
+  background-color: var(--secondary-color);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.bg {
+  background-color: var(--primary-color);
+}
