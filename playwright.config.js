@@ -53,6 +53,10 @@ module.exports = defineConfig({
       use: { ...devices['Desktop Edge'], channel: 'msedge', video: 'on',},
     },
     {
+      name: 'firefox',
+      use: { ...devices['Desktop Firefox'], video: 'on' },
+    },
+    {
       name: 'Google Chrome',
       use: { ...devices['Desktop Chrome'], channel: 'chrome', video: 'on',},
     },

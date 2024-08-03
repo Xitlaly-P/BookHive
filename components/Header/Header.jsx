@@ -23,17 +23,17 @@ const Header = () => {
               </Link>
             </li>
             <li>
-              <Link href="#about" className={styles.navLink}>
+              <Link href="#about" className={styles.navLink} data-testid="nav-about">
                 About
               </Link>
             </li>
             <li>
-              <Link href="#testimonials" className={styles.navLink}>
+              <Link href="#testimonials" className={styles.navLink} data-testid="nav-testimonials">
                 Testimonials
               </Link>
             </li>
             <li>
-              <Link href="#join" className={styles.navLink}>
+              <Link href="#join" className={styles.navLink} data-testid="nav-join">
                 Join
               </Link>
             </li>
