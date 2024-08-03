@@ -20,9 +20,11 @@ export default function AboutSection() {
   ];
 
   return (
-    <section className="about">
-    
-
+    <section className="about" id="about">
+      <div className="section_title_container">
+        <h1>About</h1>
+        <div className="section_title_underline"></div>
+      </div>
       <section className="about_container">
         <div>
           <Image

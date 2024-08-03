@@ -13,7 +13,7 @@ const HeroSection = () => {
               Trusted by over 500 local book lovers and counting! Join your
               community at The Book Hive
             </p>
-            <a href="#testimonials">
+            <a href="#about">
               <button>DISCOVER MORE</button>
             </a>
           </div>
