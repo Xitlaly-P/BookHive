@@ -1,7 +1,7 @@
 # UI/UX Research
 [Figma Link](https://www.figma.com/design/Xr4vDJnhhPPXtfZMijjJUB/The-Book-Hive?node-id=0-1&t=bjLFcv6FKzhj1XhH-1)
 ## Initial Thoughts
-For this project it was clear that we were trying to go for the everyman archetype. So I wanted to make sure that it was an inviting website that displayed a sense of community. When brainstorming ideas I came up with a bee theme since bees are a sign of community. I used a color palette generator to help me find the right colors and ultimately ended up with 4 colors. I also wanted to stick to the everyman archetype by researching fonts that display this. I found the font Cabin and it fit in well with the design. Another important point that I wanted to do well was using good images. I wanted to use images that had a lot of people together and laughing to show that sense of community
+For this project it was clear that we were trying to go for the everyman archetype. So I wanted to make sure that it was an inviting website that displayed a sense of community. When brainstorming ideas I came up with a bee theme since bees are a sign of community. I used a color palette generator to help me find the right colors and ultimately ended up with 4 colors. I also made sure that they passed the accesibility guidelines. I also wanted to stick to the everyman archetype by researching fonts that display this. I found the font Cabin and it fit in well with the design. Another important point that I wanted to do well was using good images. I wanted to use images that had a lot of people together and laughing to show that sense of community
 
 ## Persuasion
 As for persuasion I wanted to implement this by using social proof since the website is very community based. I would use pictures with people together laughing. I would also use words like "Trusted by over 500 local book lovers and counting". I also included a testimonial page to further solidify how great the business is. I also used the one foot in the door method by offering users a free dessert when they signed up for the newsletter. 
@@ -24,3 +24,9 @@ Next I performed the same Think Out Loud test with a 42 year old female. These a
 - "The yellow join section looked better"
 
 These Think Out Loud tests were very helpful and helped me rule out which little parts should make it to the final designs. After showing them both the final design they were satisfied with how it ended up looking.
+
+## Lighthouse Testing
+- Performance: 98
+- Accessibility: 92
+- Best Practices: 96
+- SEO: 91
