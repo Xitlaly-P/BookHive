@@ -7,8 +7,8 @@ const HeroSection = () => {
       <div className={styles.inside_bg}>
         <section className={`${styles.heroSection} container `}>
           <div className={styles.content}>
-            <h1 className={styles.title}>The Book Hive</h1>
-            <p className={styles.description}>
+            <h1 className={styles.title} data-testid="hero-title">The Book Hive</h1>
+            <p className={styles.description} data-testid="hero-description">
               A family-run bookstore and café where everyone feels at home.
               Trusted by over 500 local book lovers and counting! Join your
               community at The Book Hive
