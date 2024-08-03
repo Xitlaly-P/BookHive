@@ -20,7 +20,7 @@ export default function Testimonials() {
   ];
 
   return (
-    <section className="testimonials">
+    <section className="testimonials" id="testimonials">
       <div className="section_title_container">
         <h1>Testimonials</h1>
         <div className="section_title_underline"></div>
