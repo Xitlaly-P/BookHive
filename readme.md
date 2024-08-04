@@ -8,6 +8,6 @@
 
 [User Stories](./userStories.md)
 
-[Development](./Development.md)
+[Development](./development.md)
 
 [Sales Funnel](./salesFunnel.md)
