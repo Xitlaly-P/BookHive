@@ -19,6 +19,6 @@ Book Hive is a bookstore and cafe based on the idea of community. Book Hive offe
 
 [User Stories](./userStories.md)
 
-[Development](./Development.md)
+[Development](./development.md)
 
 [Sales Funnel](./salesFunnel.md)
