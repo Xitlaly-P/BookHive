@@ -2,6 +2,10 @@
 
 Book Hive is a bookstore and cafe based on the idea of community. Book Hive offers people a place to relax or enjoy with friends while also serving delicious treats!
 
+## Developers
+
+Xitlaly Prado: I took on the role as the designer. I made the design and did research for how to make the website. I also created the playwright tests and made sure that it passed the the lighthouse tests. I also made some fixes in the website.
+
 ## Links
 [Vercel/Website Link](https://book-hive-amber.vercel.app/)
 
@@ -11,6 +15,8 @@ Book Hive is a bookstore and cafe based on the idea of community. Book Hive offe
 
 [UI/UX Research](./UIUXReseach.md)
 
+[Development](./development.md)
+
 [Competitive Analysis](./CompetitiveAnalysis.md)
 
 [SWOT](./swot.md)
@@ -18,7 +24,5 @@ Book Hive is a bookstore and cafe based on the idea of community. Book Hive offe
 [Persona](./persona.md)
 
 [User Stories](./userStories.md)
-
-[Development](./development.md)
 
 [Sales Funnel](./salesFunnel.md)
